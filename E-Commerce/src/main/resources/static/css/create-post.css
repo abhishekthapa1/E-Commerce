@@ -1,0 +1,88 @@
+body{
+    background-color: #F5F5F5;
+}
+.upload_btn ,.upload_btn_submit{
+    width: 40%;
+    border-radius: 40px;
+    padding: 10px;
+}
+.upload_btn_submit{
+
+    color:#ffffff;
+    border: 0;
+}
+
+
+.user_input_post{
+
+    min-height: 90vh;
+    padding:40px;
+    border: 1px solid rgba(255, 255, 255, .25);
+    background-color: rgba(255, 255, 255, 0.45);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(20px);
+}
+input[type=text],input[type=file]{
+    border-radius: 30px;
+}
+.form-control,.form-select{
+    border-radius: 30px;
+}
+textarea,select{
+    border-radius: 30px;
+}
+
+.user_table_post{
+
+    padding:40px;
+    min-height: 90vh;
+    border: 1px solid rgba(255, 255, 255, .25);
+    background-color: rgba(255, 255, 255, 0.45);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(20px);
+    /* background-image: url(Software-Developer.svg); */
+    background-position:center ;
+    background-size: cover;
+}
+
+
+a{
+    text-decoration: none
+}
+
+a:hover{
+    cursor: pointer;
+    transition:transform  0.9s;
+    transform: scale(1.1);
+}
+i{
+    margin-left: 15px;
+}
+.footer{
+    font-size: 0.8rem;
+}
+.view_post_btn{
+    border-radius: 0;
+    width: 100%;
+    padding:5px;
+}
+
+
+
+.icons_post {
+    margin-top:10px;
+    font-size: 1.9rem;
+    color:#ffffff;
+}
+
+.post_details{
+    background-color: #000000;
+    color: white;
+}
+
+.postTitle{
+    font-size: 2rem;
+    font-weight: 600;
+    color: #2247fc;
+    margin:20px auto;
+}

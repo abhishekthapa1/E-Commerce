@@ -1,0 +1,22 @@
+.small_text{
+    font-size: 0.8rem;
+    color:#0DCAF0;
+    font-weight:400;
+}
+.btn-warning,.btn-outline-info{
+    width: 100%;
+    padding:10px 20px;
+    border-radius: 0;
+}
+.login_tab{
+    border: 1px solid rgba(255, 255, 255, .25);
+    background-color: rgba(255, 255, 255, 0.45);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(20px);
+    padding:40px;
+}
+.form-control input[type="text"],input[type="password"] {
+   border-radius: 0;
+}
+
+

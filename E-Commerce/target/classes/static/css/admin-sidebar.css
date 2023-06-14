@@ -1,0 +1,32 @@
+.sidebar{
+    min-height: 100vh;
+    background-color: #212227;
+}
+.dropdown-menu{
+    width: 100%;
+}
+.list-group-item{
+    background-color:  #212227;
+    color: #ffffff;
+    padding: 15px;
+}
+.dropdown-menu{
+    background-color:  #212227;
+    color: #ffffff;
+    border-radius: 0;
+    width: 90%;
+    border: 1px solid #ffffff;
+}
+.dropdown-item{
+    background-color:  #212227;
+    color: #ffffff;
+
+}
+.sidebar_icons{
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+
+i{
+    margin-left: 15px;
+}
